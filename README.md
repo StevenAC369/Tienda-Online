@@ -14,10 +14,10 @@ Esta tienda de electronica está destinada a hacer compras onlines nediante PayP
 - Tener el compilador de C++.
 
 ## 🛠️Instalación
-1. Clone el repositiorio con ```git clone https://github.com/StevenAC369/Tienda-Online
+1. Clone el repositiorio con ```bash git clone https://github.com/StevenAC369/Tienda-Online
 2. Cree su usuario en PostgrSQL y añada sus datos en el archvio config.py para la conexión con la base de datos
-3. Acceda mediante la terminal al direcotio clonado ```cd Tienda-Onlne
+3. Acceda mediante la terminal al direcotio clonado ```bash cd Tienda-Onlne
 4. Para instalar los modulos python es recomendable usar un entorno virtual del mismo en el repositiorio clonado.
-5. Instale los modulos de python necesario con ```pip install -r requirements.txt
+5. Instale los modulos de python necesario con ```bash pip install -r requirements.txt
 6. Una vez configurado todo lo anterior correctamente, puede compilar el programa y ejecutarlo sin problemas.
 7. Puede crear la base de datos y la tabla a traves del programa, con la opcion 5, es recomendable que el programa se encargue de esto para evitar problemas.
