@@ -1,4 +1,4 @@
-# Importante 
+# ⚠️Importante 
 Esta tienda de electronica está destinada a hacer compras onlines nediante PayPal, y está destinada a usuarios no comerciales, la modificación del código es con fines éticos. El propietario de este código Steven Alcívar no se responsabiliza del mal uso de este cófigo.
 
 ## 🚀 Caracteristicas 
